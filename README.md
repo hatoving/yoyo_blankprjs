@@ -1,2 +1,3 @@
-# yoyo_blankprjs
-blank gamemaker: studio projects for use on porting gms games for the yoyoloader
+# blank projects
+These are blank projects that you can use to use for asset swapping games for the YoYo Loader by Rinne.
+I'm gonna try to make a lot of these lol
